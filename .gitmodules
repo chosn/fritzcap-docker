@@ -1,0 +1,3 @@
+[submodule "fritzcap"]
+	path = fritzcap
+	url = https://github.com/jpluimers/fritzcap.git
